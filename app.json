@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "thankful-red-hummus",
+    "slug": "snack-93bd7a2c-18d7-4514-8097-4d9ffe791fdf",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.lbdev.budgetbuzz"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eb06cd8a-62b9-4cff-995a-cc9811136a08"
+      }
+    }
+  }
+}
